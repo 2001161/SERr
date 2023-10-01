@@ -1,0 +1,7 @@
+The best unweighted average accuracy on the validation set is 67%.
+
+Issue:
+
+The v_loss does not consistently decrease and occasionally experiences sudden increases.
+
+The v_loss tends to exhibit gradient vanishing in the later stages.
